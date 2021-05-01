@@ -1,4 +1,5 @@
-All the installation process can be found in the "SETUP_GUIDE.pdf"
+All the installation process can be found in the "SETUP_GUIDE.pdf" OR
+For visualization instruction refer to this video: https://youtu.be/_0q1k_2Q18k
 
 The application takes Covid-19 data and compare/contrast with Travel data,
 Stock Market Data (4 Common Stocks), and Unemployment data for 200 countries!
