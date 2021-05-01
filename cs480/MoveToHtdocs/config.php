@@ -1,10 +1,10 @@
 <!-- This file is used for connecting to database! -->
 <?php
-  $host = "localhost";
-  $username = "root";
-  $password = "adminData";
-  $port = "3307";
-  $dbname = "Pandemic";
+  $host = "localhost";  //IP Address
+  $username = "root"; // Your Username
+  $password = ""; //Your Password
+  $port = "3306"; //Port Number: Defualt is 3306
+  $dbname = "Pandemic"; //The database name if you did not use Pandemic
 
 // Connection
   try {

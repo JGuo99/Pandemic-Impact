@@ -7,7 +7,7 @@
  <html lang="en" dir="ltr">
    <head>
      <meta charset="utf-8">
-     <title></title>
+     <title>Covid vs Travel</title>
 
      <!-- Bootstrap -->
      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -24,7 +24,7 @@
    <body>
       <div class="container general-style">
         <div class="options">
-          <h2 style="padding-top: 50px;">Covid VS ...</h2>
+          <h2 style="padding-top: 50px;">The Effect of Covid</h2>
           <!-- Tabs -->
           <ul class="nav nav-tabs custom-style">
             <li class="nav-item">
